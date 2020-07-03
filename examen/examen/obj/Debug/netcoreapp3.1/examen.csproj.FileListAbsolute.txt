@@ -1,0 +1,13 @@
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\bin\Debug\netcoreapp3.1\examen.exe
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\bin\Debug\netcoreapp3.1\examen.deps.json
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.json
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\bin\Debug\netcoreapp3.1\examen.runtimeconfig.dev.json
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\bin\Debug\netcoreapp3.1\examen.dll
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\bin\Debug\netcoreapp3.1\examen.pdb
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.csprojAssemblyReference.cache
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfoInputs.cache
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.AssemblyInfo.cs
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.csproj.CoreCompileInputs.cache
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.dll
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.pdb
+C:\Users\matistark\Desktop\examen-MatiasCornejo\examen\examen\obj\Debug\netcoreapp3.1\examen.genruntimeconfig.cache
